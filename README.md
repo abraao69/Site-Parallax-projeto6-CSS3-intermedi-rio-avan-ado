@@ -3,7 +3,7 @@
 
 <hr>
 <p align="center">
- <img width="900px" src="https://user-images.githubusercontent.com/103331086/219087953-ff229a5b-5470-486e-b6cc-95166f865ff9.png" />
+ <img width="900px" src="https://user-images.githubusercontent.com/103331086/219090657-ec7a7364-6125-4d6a-adca-d5356b4dfdd1.PNG" />
 </p>
 
 Efeito Parallax
