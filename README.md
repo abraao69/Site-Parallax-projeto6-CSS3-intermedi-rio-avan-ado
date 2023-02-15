@@ -24,4 +24,4 @@ CSS
 ✈️ Acesse o site
 Hospedado no Netlify
 
-https://parallax-gsj.netlify.app/
+https://parallaxbaloes.netlify.app/
